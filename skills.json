@@ -6,9 +6,9 @@
       ["nombre", "Carlos Galoc"],
       ["rol", "Full Stack Developer"],
       ["ubicación", "Bagua, Amazonas, Perú"],
-      ["enfoque", "Sistemas de gestión · Salud · APIs REST · Reportes"],
+      ["enfoque", "Sistemas a medida · IA aplicada · Automatización · APIs REST"],
       ["stack", "TypeScript · Next.js · Node.js · PostgreSQL · Prisma · PHP"],
-      ["aprendiendo", "Testing, arquitectura limpia y despliegue"],
+      ["aprendiendo", "Agentes de IA, integración de LLMs y arquitectura limpia"],
       ["status", "abierto a proyectos y colaboraciones"]
     ]
   },

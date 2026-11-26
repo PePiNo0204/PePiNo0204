@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/PePiNo0204">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2600&pause=900&color=22C55E&center=true&vCenter=true&width=900&lines=Carlos+Galoc+%E2%80%94+Full+Stack+Developer;TypeScript+%7C+Next.js+%7C+Node.js+%7C+PostgreSQL;Sistemas+de+gesti%C3%B3n+%7C+Salud+%7C+APIs+REST;Programando+desde+Bagua%2C+Per%C3%BA" alt="Carlos Galoc · Full Stack Developer">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2600&pause=900&color=22C55E&center=true&vCenter=true&width=900&lines=Carlos+Galoc+%E2%80%94+Full+Stack+Developer;TypeScript+%7C+Next.js+%7C+Node.js+%7C+PostgreSQL;Sistemas+a+medida+%7C+IA+aplicada+%7C+Automatizaci%C3%B3n;Programando+desde+Bagua%2C+Per%C3%BA" alt="Carlos Galoc · Full Stack Developer">
 </a>
 
 <br>
@@ -40,7 +40,7 @@
 <td colspan="2" valign="top"><code>╰─ ⌁ quality_devops:</code><br><br><img src="https://skillicons.dev/icons?i=git,github,vitest,vscode" alt="Git GitHub Vitest VS Code"><br><sub><code>Git · GitHub (ramas y PR) · Vitest · VS Code</code></sub></td>
 </tr>
 <tr>
-<td colspan="2" valign="top"><b>Asistentes y documentación</b><br><br><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude"> <img src="https://img.shields.io/badge/GitHub_Copilot-171717?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"> <img src="https://img.shields.io/badge/Markdown-171717?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"><br><sub><code>Claude · GitHub Copilot · Markdown</code></sub></td>
+<td colspan="2" valign="top"><b>Asistentes de IA y herramientas</b><br><br><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude"> <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code"> <img src="https://img.shields.io/badge/GitHub_Copilot-171717?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"> <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"> <img src="https://img.shields.io/badge/Markdown-171717?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"><br><sub><code>Claude · Claude Code · GitHub Copilot · ChatGPT · Gemini · Git · VS Code · Markdown</code></sub></td>
 </tr>
 </tbody><tfoot><tr><td colspan="2"><code>status: en formación · environment: production</code></td></tr></tfoot>
 </table>
