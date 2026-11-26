@@ -1,0 +1,11 @@
+{
+  "_ayuda": "Niveles de 0 a 10 (autoevaluación). Edita y ejecuta: node scripts/radar.mjs",
+  "radars": [
+    { "file": "radar-frontend.svg", "title": "Frontend", "color": "#38bdf8",
+      "skills": { "TypeScript": 7, "JavaScript": 8, "Next.js": 7, "React": 7, "HTML/CSS": 8, "UI/UX": 6 } },
+    { "file": "radar-backend.svg", "title": "Backend", "color": "#4ade80",
+      "skills": { "Node.js": 8, "Express": 8, "PHP": 7, "APIs REST": 8, "Validación (Zod)": 7, "Reportes PDF/Excel": 7 } },
+    { "file": "radar-data-devops.svg", "title": "Datos y calidad", "color": "#c084fc",
+      "skills": { "PostgreSQL": 7, "Prisma": 7, "MySQL": 6, "Testing (Vitest)": 6, "Git/GitHub": 8, "Deploy": 5 } }
+  ]
+}
